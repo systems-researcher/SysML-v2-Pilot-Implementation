@@ -49,3 +49,5 @@ dependency-reduced-pom.xml
 
 # Sysand JAR
 org.omg.sysml.xtext/lib/sysand.jar
+.superpowers/
+docs/superpowers/
